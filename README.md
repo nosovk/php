@@ -1,4 +1,6 @@
 # PHP
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnosovk%2Fphp.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnosovk%2Fphp?ref=badge_shield)
+
 Version based on official 7.2 alpine, runned by www-data (82)
 
 ### [image on DockerHub](https://hub.docker.com/r/nodeartio/php/)
@@ -31,3 +33,7 @@ GD, Zip, mysqli, pdo_mysql, gettext, bcmath, mcrypt, intl, opcache, memcached, x
 ### modules will be compiled on start
 MaxMind-DB-Reader-php
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fnosovk%2Fphp.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fnosovk%2Fphp?ref=badge_large)
